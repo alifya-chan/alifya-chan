@@ -72,5 +72,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alifya_chan&show_icons=true&theme=gotham" alt="alifya_chan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alifya-chan&show_icons=true&theme=gotham" alt="alifya-chan" />
 
